@@ -66,7 +66,7 @@ Farma/
 
 ### **Step 1: Clone the Repository**
 ```bash
-git clone https://github.com/your-username/farma.git
+git clone https://github.com/Cryptim/FARMA-TEAM-4.git
 ```
 
 ### **Step 2: Open the Project**
@@ -107,8 +107,8 @@ This project is licensed under the **MIT License**. See the `LICENSE` file for m
 
 ## **Contact**
 If you have any questions or suggestions, feel free to reach out:
-- **Email**: yourname@example.com
-- **GitHub**: [Your GitHub Profile](https://github.com/your-username)
+- **Email**: timothyignatiusa@gmail.com
+- **GitHub**: [Your GitHub Profile](https://github.com/Cryptim)
 
 ---
 
