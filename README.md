@@ -111,7 +111,7 @@ If you have any questions or suggestions, feel free to reach out:
 ---
 
 ## **Sample Preview**
-![image alt]()
+![image alt](https://github.com/Cryptim/FARMA-TEAM-4/blob/02ec876e71247ffb10b5794af2968e018da49e3a/Landing%20Page.png)
 
 ---
 
