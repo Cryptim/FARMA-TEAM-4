@@ -1,6 +1,8 @@
 # **FARMA-TEAM-4 Agricultural Produce Tracking Platform**
 
 Farma is a lightweight web application designed to help farmers track their farm produce efficiently. It offers a user-friendly interface built with **HTML**, **CSS**, and **JavaScript**, with plans for dynamic features and backend integration in the future.
+
+
 ![image alt](https://github.com/Cryptim/FARMA-TEAM-4/blob/5fb4623a00e951494bc9ef076bec4e9bfe7e8180/crop%20tracking.png)
 ---
 
