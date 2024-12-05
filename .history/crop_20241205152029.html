@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Responsive FARMA</title>
+    <link rel="stylesheet" href="styles.css" />
+    <link rel="stylesheet" href="https://fontawesome.com/icons" />
+  </head>
+  <body>
+    <section class="container">
+      <header>
+        <img
+          src="IMG-20241202-WA0021.jpg"
+          alt=""
+          style="background-color: green; font-size: 24px"
+        />
+        <i class="fa-regular fa-bell"></i>
+      </header>
+
+      <form action="#">
+        <h1>Dashboard/Track Crop</h1>
+        <h4>
+          Carefully fill out the following details about your farm to get
+          personal details
+        </h4>
+
+        <div class="input-box">
+          <label for="name">Farm Location</label>
+          <div>
+            <select id="Country">
+              <option value="country">Select Country</option>
+              <option value="Australia">Australia</option>
+              <option value="United State of America">
+                United State of America
+              </option>
+              <option value="United Kingdom">United Kingdom</option>
+              <option value="Dubai">Dubai</option>
+              <option value="Nigeria">Nigeria</option>
+              <option value="Ghana">Ghana</option>
+            </select>
+          </div>
+        </div>
+
+        <div class="input-box">
+          <label for="name">Select Crop</label>
+          <div class="select-box">
+            <select id="Type of Crop">
+              <option value="type of Crop">Type of Crop</option>
+              <option value="Maize">Maize</option>
+              <option value="Soya Beans">Soya Beans</option>
+              <option value="Wheat">Wheat</option>
+              <option value="Tomatoes">Apple</option>
+              <option value="Cassava">Cassava</option>
+              <option value="Potatoes">Watermeloon</option>
+              <option value="Sugarcane">Sugarcane</option>
+              <option value="Garlic">Garlic</option>
+              <option value="Onions">Onions</option>
+            </select>
+          </div>
+        </div>
+
+        <div class="column1">
+          <div class="input-box">
+            <label>Enter date of planting</label>
+            <input type="date" placeholder="Enter date of planting" />
+          </div>
+
+          <div class="column2">
+            <div class="input-box">
+              <label>Enter due date</label>
+              <input type="date" placeholder="Enter due date" required />
+            </div>
+          </div>
+        </div>
+      </form>
+    </section>
+  </body>
+</html>
